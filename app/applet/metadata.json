@@ -1,0 +1,6 @@
+{
+  "name": "ANIME UG",
+  "description": "منصة ANIME UG لمشاهدة الأنمي بالعربية: بحث، تصنيفات، مفضلة، سجل مشاهدة، ومشغّل يدعم جودات متعددة وترجمة عربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
